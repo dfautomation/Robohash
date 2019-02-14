@@ -27,9 +27,7 @@ setup(
     package_data={
         'robohash': [
             'sets/set1/*/*/*',
-            'sets/set2/*/*',
-            'sets/set3/*/*',
-            'backgrounds/*/*',
+            'backgrounds/bg1/*',
         ]
     },
     install_requires=['pillow', 'natsort'],
